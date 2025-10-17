@@ -111,9 +111,8 @@ By using SudokQuizz, you consent to this privacy policy and accept its terms.
 
 If you have any questions or concerns about this privacy policy, please contact us:
 
-**Email**: [Your contact email address]
-
-**Developer**: [Your name or company name]
+**Email**: sudokquizz@gmail.com
+**Developer**: Benoit
 
 ---
 
