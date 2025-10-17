@@ -111,9 +111,8 @@ En utilisant SudokQuizz, vous consentez à cette politique de confidentialité e
 
 Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité, veuillez nous contacter :
 
-**Email** : [Votre adresse email de contact]
-
-**Développeur** : [Votre nom ou nom de l'entreprise]
+**Email** : sudokquizz@gmail.com
+**Développeur** : Benoit
 
 ---
 
